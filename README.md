@@ -3,8 +3,6 @@ Meu projeto tem como objetivo auxiliar no levantamento de aparelhos eletrônicos
 
 # Como executar
 
-
-Instalar todas as libs python listadas no `requirements.txt`.
 Copiar o repositório para uma pasta local e executar os comandos abaixo pelo terminal após entrar no diretório do repositório:
 
 1- Criar uma virtualenv
